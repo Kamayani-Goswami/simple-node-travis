@@ -1,4 +1,4 @@
-const FAVORITE_INSTRUCTOR = process.env.KESHAWILLIAMS;
+const FAVORITE_INSTRUCTOR = process.env.NAME;
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
